@@ -36,5 +36,5 @@
   - OPL2500_A0: TBD.
 
 # User Guide
-  - Please refer to: TBD.
+  - Please refer to: https://github.com/harrison-netlink/MyTest/wiki
 
